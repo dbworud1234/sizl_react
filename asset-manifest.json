@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/sizl_react/static/js/main.82ef7d49.chunk.js",
+    "main.js.map": "/sizl_react/static/js/main.82ef7d49.chunk.js.map",
+    "runtime-main.js": "/sizl_react/static/js/runtime-main.a052f8e5.js",
+    "runtime-main.js.map": "/sizl_react/static/js/runtime-main.a052f8e5.js.map",
+    "static/js/2.03f6d2b8.chunk.js": "/sizl_react/static/js/2.03f6d2b8.chunk.js",
+    "static/js/2.03f6d2b8.chunk.js.map": "/sizl_react/static/js/2.03f6d2b8.chunk.js.map",
+    "index.html": "/sizl_react/index.html",
+    "precache-manifest.0a2f0a416330a35f1ea35fe87e51988e.js": "/sizl_react/precache-manifest.0a2f0a416330a35f1ea35fe87e51988e.js",
+    "service-worker.js": "/sizl_react/service-worker.js",
+    "static/js/2.03f6d2b8.chunk.js.LICENSE.txt": "/sizl_react/static/js/2.03f6d2b8.chunk.js.LICENSE.txt",
+    "static/media/walk.png": "/sizl_react/static/media/walk.02303522.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a052f8e5.js",
+    "static/js/2.03f6d2b8.chunk.js",
+    "static/js/main.82ef7d49.chunk.js"
+  ]
+}
